@@ -1,0 +1,12 @@
+{
+  "name": "javascript-hub",
+  "version": "1.0.0",
+  "description": "Este repositorio aloja el proyecto Javascript Hub. El cual, cuenta con herramientas básicas creadas con el lenguaje de Programación Javascript. En colaboracion de:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
