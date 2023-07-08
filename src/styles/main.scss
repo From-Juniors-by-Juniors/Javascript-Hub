@@ -1,0 +1,13 @@
+@use "reset.scss";
+@use "variables.scss";
+@use "components/apps.scss";
+@use "components/footer.scss";
+@use "components/hero.scss";
+@use "components/navbar.scss";
+@import 'https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;300;400;600;700&display=swap';
+
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+
