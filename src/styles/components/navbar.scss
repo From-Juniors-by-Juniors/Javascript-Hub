@@ -1,0 +1,42 @@
+.header {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 100%;
+    height: 90px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.logo-section{
+    display: flex;  
+    align-items: center;
+}
+
+.logo-section > h2{
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--color-fnt-hero-fiord);
+}
+
+.nav-section{
+    display: flex;
+    align-items: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navitem > a{
+    margin: 5px 15px;
+    text-decoration: none;
+    color: var(--color-fnt-hero-fiord);
+    font-size: 1.5rem;
+}
+
+.navitem > a:hover {
+    text-decoration: underline;
+    transition: 0.5s;
+}
